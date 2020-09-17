@@ -64,7 +64,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url('/assets/img/john.jpg');
+  background-image: url('https://raw.githubusercontent.com/Davermx/CloneNetflix/master/assets/img/john.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
